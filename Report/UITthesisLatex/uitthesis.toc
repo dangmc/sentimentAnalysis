@@ -1,0 +1,19 @@
+\select@language {vietnam}
+\contentsline {chapter}{M\d {u}c l\d {u}c}{ii}{chapter*.1}
+\contentsline {chapter}{Danh s\'ach h\`inh v\~e}{iii}{chapter*.2}
+\contentsline {chapter}{\numberline {1}Gi\IeC {\'\ohorn }i thi\IeC {\d \ecircumflex }u chung}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Ph\IeC {\'a}t bi\IeC {\h \ecircumflex }u b\IeC {\`a}i to\IeC {\'a}n}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Deep Learning l\IeC {\`a} g\IeC {\`\i }?}{2}{section.1.2}
+\contentsline {chapter}{\numberline {2}M\IeC {\^o} h\IeC {\`\i }nh}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Ti\IeC {\`\ecircumflex }n x\IeC {\h \uhorn } l\IeC {\'y}}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Word Embedding}{5}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}The Skip-gram model}{7}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.3}Recurrent Neural Networks}{8}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}M\IeC {\d a}ng RNN truy\IeC {\`\ecircumflex }n th\IeC {\'\ocircumflex }ng}{8}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Long short term memory}{10}{subsection.2.3.2}
+\contentsline {chapter}{\numberline {3}K\IeC {\'\ecircumflex }t qu\IeC {\h a} th\IeC {\d \uhorn }c nghi\IeC {\d \ecircumflex }m}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}D\IeC {\~\uhorn } li\IeC {\d \ecircumflex }u th\IeC {\d \uhorn }c nghi\IeC {\d \ecircumflex }m}{13}{section.3.1}
+\contentsline {section}{\numberline {3.2}M\IeC {\^o}i tr\IeC {\uhorn }\IeC {\`\ohorn }ng th\IeC {\d \uhorn }c nghi\IeC {\d \ecircumflex }m}{14}{section.3.2}
+\contentsline {section}{\numberline {3.3}K\IeC {\'\ecircumflex }t qu\IeC {\h a}}{14}{section.3.3}
+\contentsline {chapter}{\numberline {4}K\IeC {\'\ecircumflex }t lu\IeC {\d \acircumflex }n v\IeC {\`a} h\IeC {\uhorn }\IeC {\'\ohorn }ng ph\IeC {\'a}t tri\IeC {\h \ecircumflex }n}{15}{chapter.4}
+\contentsline {chapter}{T\`ai li\d \ecircumflex u tham kh\h {a}o}{16}{chapter*.3}

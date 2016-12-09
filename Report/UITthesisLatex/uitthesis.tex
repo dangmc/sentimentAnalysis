@@ -1,0 +1,60 @@
+% This template originates from the Cambridge University thesis 
+% which is created by Prof Harish Bhanderi.  
+% This is template follows the GNU license for Education and training
+% purposes. (http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/ThesisStyle/) 
+% 
+%
+% I modified for uses in University of Information Technology 
+% Vietnam National University. 
+
+\documentclass[oneside,12pt]{Classes/uitBA}
+
+  \university{{ĐẠI HỌC BÁCH KHOA HÀ NỘI}}
+  \collegeordept{{VIỆN CÔNG NGHỆ THÔNG TIN \& TRUYỀN THÔNG}}  
+  \degree{BÁO CÁO BÀI TẬP LỚN}   
+  \title{PHÂN TÍCH QUAN ĐIỂM} 
+  \crest{\includegraphics[scale=.30]{BK_logo}} 
+  \supervisor{{PGS.TS. LÊ THANH HƯƠNG}}
+  \author{{ĐẶNG MẠNH CƯỜNG - 20130489 
+           \\PHAN THỊ HỒNG HẠNH - 20131301\\
+           HÀ MINH CÔNG - 20130447}}   
+  \degreedate{05-12-2016} 
+\hbadness=10000
+\hfuzz=50pt
+\usepackage{StyleFiles/watermark}
+\usepackage{caption}
+\usepackage{enumitem}
+
+
+
+\onehalfspacing
+
+\begin{document}
+\maketitle
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+
+\frontmatter % book mode only
+\pagenumbering{roman}
+\include{Abstract/abstract}
+
+\tableofcontents
+\listoffigures
+
+%\printnomenclature  
+%\addcontentsline{toc}{chapter}{Nomenclature}
+
+\mainmatter  
+\include{Chapter1/chapter1}
+\include{Chapter2/chapter2}
+\include{Chapter3/chapter3}
+\include{Conclusions/conclusions}
+ 
+%\bibliographystyle{Classes/jmb} % bibliography style
+%\bibliographystyle{plain}
+%\renewcommand{\bibname}{References} % changes default name Bibliography to References
+%\bibliography{References/refer} % References file
+\bibliographystyle{unsrt}
+\bibliography{}
+
+\end{document}
